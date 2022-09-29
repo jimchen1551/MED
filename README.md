@@ -1,7 +1,7 @@
 # Medicine
 Notes with links for medicine
 
-Highly recommend to open in Obsidian
+Highly recommend to open with Obsidian
 
 https://obsidian.md
 
